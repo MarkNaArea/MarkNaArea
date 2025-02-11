@@ -1,11 +1,17 @@
 <h1 align="center">Hi 👋, I'm Marcos Vinícius</h1>
-<h3 align="center">I'm a fast-learning software engineer with a keen systemic vision and excellent interpersonal skills, immersed in the world of technology from an early age.</h3>
+<h3 align="center">Hey there! I'm a fast-learning software engineer with a keen systemic vision and excellent interpersonal skills. I've been immersed in the world of technology from an early age and love tackling complex challenges.</h3>
 
-- 🔭 I’m currently working for **OTD Engineering**
+- 🔭 Currently, I'm the CTO of **ZIEG Dev**, where we build custom systems and applications tailored to our clients' needs. One of our clients is OTD Engineering, where I previously worked before founding my own company.
 
-- 🌱 I’m currently learning **Rust and C++**
+- 🎲 I’m also the creator of Mítica RPG, my personal tabletop RPG system, where I explore worldbuilding, game mechanics, and immersive storytelling.
 
-<h3 align="left">Connect with me:</h3>
+- 🛠️ Tech Stack & Interests
+
+Passionate about backend development, distributed systems, and real-time applications
+Working primarily with Go, Node.js, and MongoDB/PostgreSQL
+
+📫 Feel free to connect! I'm always open to discussing tech, RPGs, and innovative ideas.
+
 <p align="left">
 <a href="https://twitter.com/marknaarea" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="marknaarea" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/marcos0vinicius" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="marcos0vinicius" height="30" width="40" /></a>
